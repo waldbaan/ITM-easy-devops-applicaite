@@ -1,0 +1,14 @@
+C:\Users\user\Git\ITM Applicatie\bin\Debug\net8.0\ITM Applicatie.exe
+C:\Users\user\Git\ITM Applicatie\bin\Debug\net8.0\ITM Applicatie.deps.json
+C:\Users\user\Git\ITM Applicatie\bin\Debug\net8.0\ITM Applicatie.runtimeconfig.json
+C:\Users\user\Git\ITM Applicatie\bin\Debug\net8.0\ITM Applicatie.dll
+C:\Users\user\Git\ITM Applicatie\bin\Debug\net8.0\ITM Applicatie.pdb
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.AssemblyInfoInputs.cache
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.AssemblyInfo.cs
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.csproj.CoreCompileInputs.cache
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.dll
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\refint\ITM Applicatie.dll
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.pdb
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ITM Applicatie.genruntimeconfig.cache
+C:\Users\user\Git\ITM Applicatie\obj\Debug\net8.0\ref\ITM Applicatie.dll
