@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ITM Applicatie/1.0.0": {
+      "ITM-EASY-DEVOPS/1.0.0": {
         "runtime": {
-          "ITM Applicatie.dll": {}
+          "ITM-EASY-DEVOPS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ITM Applicatie/1.0.0": {
+    "ITM-EASY-DEVOPS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

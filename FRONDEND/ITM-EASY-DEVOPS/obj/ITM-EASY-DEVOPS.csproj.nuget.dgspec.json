@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Git\\ITM Applicatie\\ITM Applicatie.csproj": {}
+    "C:\\Users\\user\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Git\\ITM Applicatie\\ITM Applicatie.csproj": {
+    "C:\\Users\\user\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Git\\ITM Applicatie\\ITM Applicatie.csproj",
-        "projectName": "ITM Applicatie",
-        "projectPath": "C:\\Users\\user\\Git\\ITM Applicatie\\ITM Applicatie.csproj",
+        "projectUniqueName": "C:\\Users\\user\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj",
+        "projectName": "ITM-EASY-DEVOPS",
+        "projectPath": "C:\\Users\\user\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Git\\ITM Applicatie\\obj\\",
+        "outputPath": "C:\\Users\\user\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
