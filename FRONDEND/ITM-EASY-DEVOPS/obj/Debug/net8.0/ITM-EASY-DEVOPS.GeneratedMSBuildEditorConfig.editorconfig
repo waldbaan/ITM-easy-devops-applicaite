@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ITM_EASY_DEVOPS
-build_property.ProjectDir = C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\
+build_property.ProjectDir = C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITM-EASY-DEVOPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8a93f727445c58b307c921bd8f2168db656aa0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITM-EASY-DEVOPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITM-EASY-DEVOPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
