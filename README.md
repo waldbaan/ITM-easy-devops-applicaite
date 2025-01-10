@@ -2,4 +2,4 @@
 ITM dotnet applicatie
 
 Dit is de ITM easy devops applicatie
-Versie 2.3
+Versie 1.0
