@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITM-EASY-DEVOPS", "ITM-EASY-DEVOPS\ITM-EASY-DEVOPS.csproj", "{AAA04CDB-DBEF-47DD-BEFE-C80870FCE76A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITM-Easy-devops", "ITM-Easy-devops\ITM-Easy-devops.csproj", "{FC81BDEE-260C-42A6-A3EB-BCC2255E906B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AAA04CDB-DBEF-47DD-BEFE-C80870FCE76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAA04CDB-DBEF-47DD-BEFE-C80870FCE76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAA04CDB-DBEF-47DD-BEFE-C80870FCE76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAA04CDB-DBEF-47DD-BEFE-C80870FCE76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC81BDEE-260C-42A6-A3EB-BCC2255E906B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC81BDEE-260C-42A6-A3EB-BCC2255E906B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC81BDEE-260C-42A6-A3EB-BCC2255E906B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC81BDEE-260C-42A6-A3EB-BCC2255E906B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

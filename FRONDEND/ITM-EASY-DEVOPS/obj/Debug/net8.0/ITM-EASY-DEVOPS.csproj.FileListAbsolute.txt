@@ -1,29 +1,14 @@
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.exe
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.deps.json
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.runtimeconfig.json
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.dll
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.pdb
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.AssemblyInfoInputs.cache
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.AssemblyInfo.cs
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.csproj.CoreCompileInputs.cache
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.dll
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\refint\ITM-EASY-DEVOPS.dll
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.pdb
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.genruntimeconfig.cache
-C:\Users\user\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS\obj\Debug\net8.0\ref\ITM-EASY-DEVOPS.dll
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.exe
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.deps.json
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.runtimeconfig.json
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.dll
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\bin\Debug\net8.0\ITM-EASY-DEVOPS.pdb
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.AssemblyInfoInputs.cache
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.AssemblyInfo.cs
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.sourcelink.json
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.dll
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\refint\ITM-EASY-DEVOPS.dll
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.pdb
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ITM-EASY-DEVOPS.genruntimeconfig.cache
-C:\Users\user\Documents\GitHub\ITM-easy-devops-applicaite\FRONDEND\ITM-EASY-DEVOPS\obj\Debug\net8.0\ref\ITM-EASY-DEVOPS.dll
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\bin\Debug\net8.0\ITM-Easy-devops.exe
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\bin\Debug\net8.0\ITM-Easy-devops.deps.json
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\bin\Debug\net8.0\ITM-Easy-devops.runtimeconfig.json
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\bin\Debug\net8.0\ITM-Easy-devops.dll
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\bin\Debug\net8.0\ITM-Easy-devops.pdb
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.AssemblyInfoInputs.cache
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.AssemblyInfo.cs
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.csproj.CoreCompileInputs.cache
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.dll
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\refint\ITM-Easy-devops.dll
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.pdb
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ITM-Easy-devops.genruntimeconfig.cache
+C:\Users\wgpwo\Documents\School\jaar 2\Module 2\Technisch beheer en monitroing\git\v2 ease-devops\ITM-Easy-devops\obj\Debug\net8.0\ref\ITM-Easy-devops.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\ITM-easy-devops-applicaite\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj": {}
+    "C:\\Users\\wgpwo\\Documents\\School\\jaar 2\\Module 2\\Technisch beheer en monitroing\\git\\v2 ease-devops\\ITM-Easy-devops\\ITM-Easy-devops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\ITM-easy-devops-applicaite\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj": {
+    "C:\\Users\\wgpwo\\Documents\\School\\jaar 2\\Module 2\\Technisch beheer en monitroing\\git\\v2 ease-devops\\ITM-Easy-devops\\ITM-Easy-devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\ITM-easy-devops-applicaite\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj",
-        "projectName": "ITM-EASY-DEVOPS",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\ITM-easy-devops-applicaite\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\ITM-easy-devops-applicaite\\FRONDEND\\ITM-EASY-DEVOPS\\obj\\",
+        "projectUniqueName": "C:\\Users\\wgpwo\\Documents\\School\\jaar 2\\Module 2\\Technisch beheer en monitroing\\git\\v2 ease-devops\\ITM-Easy-devops\\ITM-Easy-devops.csproj",
+        "projectName": "ITM-Easy-devops",
+        "projectPath": "C:\\Users\\wgpwo\\Documents\\School\\jaar 2\\Module 2\\Technisch beheer en monitroing\\git\\v2 ease-devops\\ITM-Easy-devops\\ITM-Easy-devops.csproj",
+        "packagesPath": "C:\\Users\\wgpwo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wgpwo\\Documents\\School\\jaar 2\\Module 2\\Technisch beheer en monitroing\\git\\v2 ease-devops\\ITM-Easy-devops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\wgpwo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
