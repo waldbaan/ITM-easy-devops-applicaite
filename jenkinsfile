@@ -27,7 +27,7 @@ pipeline {
         stage('Execute')
         {
             steps{
-                bat ipconfig
+                echo bat ipconfig
             }
         }
     }
