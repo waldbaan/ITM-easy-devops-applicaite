@@ -27,7 +27,7 @@ pipeline {
         stage('Execute')
         {
             steps{
-                bat 'dotnet'
+                bat 'dotnet build C:\Users\Administrator\AppData\Local\Jenkins\.jenkins\workspace\TBM-pipeline\FRONDEND\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS.csproj'
             }
         }
     }
