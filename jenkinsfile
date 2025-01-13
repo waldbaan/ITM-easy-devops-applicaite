@@ -17,19 +17,6 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-        stage('Clone Public Repo')
-        {
-            steps {
-                git branch: 'main',
-                    url: 'https://github.com/waldbaan/ITM-easy-devops-applicaite.git'
-            }
-        }
-        stage('Execute')
-        {
-            steps {
-                bat dotnet build 'C:\Users\Administrator\AppData\Local\Jenkins\.jenkins\workspace\TBM-pipeline\FRONDEND\ITM-EASY-DEVOPS\ITM-EASY-DEVOPS.csproj'
-            }
-        }
     }
 }
 
