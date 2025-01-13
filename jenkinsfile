@@ -24,6 +24,12 @@ pipeline {
                     url: 'https://github.com/waldbaan/ITM-easy-devops-applicaite.git'
             }
         }
+        stage('Execute')
+        {
+            steps{
+                bat ipconfig
+            }
+        }
     }
 }
 
