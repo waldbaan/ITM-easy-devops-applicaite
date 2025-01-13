@@ -27,7 +27,7 @@ pipeline {
         stage('Execute')
         {
             steps{
-                bat 'wmic computersystem get name'
+                bat 'dotnet'
             }
         }
     }
