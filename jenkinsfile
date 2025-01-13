@@ -27,7 +27,7 @@ pipeline {
         stage('Execute')
         {
             steps{
-                echo bat ipconfig
+                bat 'wmic computersystem get name'
             }
         }
     }
