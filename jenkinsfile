@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Clone Public Repo')
+        stage('Repository Clonen')
         {
             steps {
                 git branch: 'main',
@@ -12,7 +12,6 @@ pipeline {
         stage('Build') {
             steps {
                 bat 'dotnet build C:\\Users\\Administrator\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\TBM-pipeline\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj'
-                //bat 'C:\\Users\\Administrator\\Documents\\test.bat'  
             }
         }
     }
