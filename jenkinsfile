@@ -2,21 +2,6 @@ pipeline {
     agent any
 
     stages {
-        stage('Build') {
-            steps {
-                echo 'Building..'
-            }
-        }
-        stage('Test') {
-            steps {
-                echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....'
-            }
-        }
         stage('Clone Public Repo')
         {
             steps {
@@ -24,11 +9,10 @@ pipeline {
                     url: 'https://github.com/waldbaan/ITM-easy-devops-applicaite.git'
             }
         }
-        stage('Execute')
-        {
-            steps{
-                bat 'dotnet.exe build C:\\Users\\Administrator\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\TBM-pipeline\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj'
-                //bat 'C:\\Users\\Administrator\\Documents\\test.bat'            
+        stage('Build') {
+            steps {
+                bat 'dotnet build C:\\Users\\Administrator\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\TBM-pipeline\\FRONDEND\\ITM-EASY-DEVOPS\\ITM-EASY-DEVOPS.csproj'
+                //bat 'C:\\Users\\Administrator\\Documents\\test.bat'  
             }
         }
     }
